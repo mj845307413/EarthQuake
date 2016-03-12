@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu1"
+        android:title="show"></item>
+</menu><!-- From: file:/D:/workstatioin1/EarthQuake/app/src/main/res/menu/popupmenu.xml -->

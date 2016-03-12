@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 18
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        applicationId "com.majun.earthquake"
+        minSdkVersion 16
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets {
+        main {
+            res.srcDirs = ['src/main/res', 'libs']
+            java.srcDirs = ['src/main/java', 'src/main/java/com/majun/gson_earthquake', 'src/main/java/json_example']
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.android.support:appcompat-v7:18.0.0'
+    compile files('libs/baidumapapi_base_v3_7_1.jar')
+    compile files('libs/baidumapapi_map_v3_7_1.jar')
+    compile files('libs/baidumapapi_util_v3_7_1.jar')
+    compile files('libs/locSDK_6.13.jar')
+}

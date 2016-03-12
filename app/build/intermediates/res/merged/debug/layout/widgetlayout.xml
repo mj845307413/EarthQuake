@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F111"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/widget_mig"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:padding="3dp"
+        android:text="---"
+        android:textSize="24sp" />
+    <ImageView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#fff" />
+
+    <TextView
+        android:id="@+id/widget_palce"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="3dp"
+        android:text="----------"
+        android:textSize="14sp" />
+
+</LinearLayout>
+<!-- From: file:/D:/workstatioin1/EarthQuake/app/src/main/res/layout/widgetlayout.xml -->

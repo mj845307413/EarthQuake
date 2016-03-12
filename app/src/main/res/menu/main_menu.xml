@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_update"></item>
+    <item
+        android:id="@+id/prefence"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_preferences"></item>
+    <item
+        android:id="@+id/fragment_dialog"
+        android:title="fragment_dialog"></item>
+    <item
+        android:id="@+id/normal_dialog"
+        android:title="normal_dialog"></item>
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Earthquake</string>
+  <string name="quake_feed">
+    http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson
+  </string>
+  <string name="test_string">http://earthquake.usgs.gov/eqcenter/catalogs/1day-M2.5.xml</string>
+  <string name="menu_update">Refresh Earthquakes</string>
+  <string name="auto_update_prompt">Auto Update?</string>
+  <string name="update_freq_prompt">Update Frequency</string>
+  <string name="min_quake_mag_prompt">Minimum Quake Magnitude</string>
+  <string name="menu_preferences">Preferences</string>
+  <string name="map_string">map here</string>
+
+</resources>

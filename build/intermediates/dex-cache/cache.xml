@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workstatioin1\EarthQuake\app\libs\baidumapapi_map_v3_7_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29595e6b2f19f7a79cefe7269d1662333feeab45">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v3_7_1-74786054558175a847090962ea431fc8d6d71d76.jar" />
+    </item>
+    <item
+        jar="D:\workstatioin1\EarthQuake\app\libs\baidumapapi_base_v3_7_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="977a8dfd855077c6bfcfb44adce39927e0397e66">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v3_7_1-aa763729b8d8f20cf6cd75e759ed7fdf5573f4f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ws03\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\gson-2.2.4-547388ee7f684294cca1cec7fc12ada554e99edb.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\workstatioin1\EarthQuake\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\classes-10a35e665c49920a0188345872db03420bbec27d.jar" />
+    </item>
+    <item
+        jar="D:\workstatioin1\EarthQuake\app\libs\baidumapapi_util_v3_7_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ec067777962d6ad4b7d4c0e1aff93e83180d207">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v3_7_1-6e7e7dd696941a6b5a2ff05fab0ff70d38be477c.jar" />
+    </item>
+    <item
+        jar="D:\workstatioin1\EarthQuake\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="D:\workstatioin1\EarthQuake\app\build\intermediates\pre-dexed\debug\locSDK_6.13-770eb04977cbae12713d23c07923e5bc197932fa.jar" />
+    </item>
+
+</items>
